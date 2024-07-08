@@ -1,0 +1,16 @@
+.card {
+    border: 1px solid #ccc; /* Adds a border */
+    border-radius: 8px; /* Rounds the corners */
+    padding: 10px; /* Adds some padding inside the card */
+    margin: 10px 0; /* Adds some space between the cards */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+  }
+
+  .score-delete-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .chart_width {
+    width: 800px;
+  }
